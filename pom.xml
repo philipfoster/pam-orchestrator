@@ -50,11 +50,6 @@
       <artifactId>pam-process-tracer</artifactId>
       <version>0.0.1-SNAPSHOT</version>
     </dependency>   
-        <dependency>
-      <groupId>org.jbpm</groupId>
-      <artifactId>jbpm-flow</artifactId>
-      <version>7.30.0.Final-redhat-00003</version>
-    </dependency> 
   </dependencies>
   <build>
     <plugins>
