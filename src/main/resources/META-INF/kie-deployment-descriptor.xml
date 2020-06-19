@@ -6,13 +6,7 @@
     <persistence-mode>JPA</persistence-mode>
     <runtime-strategy>SINGLETON</runtime-strategy>
     <marshalling-strategies/>
-    <event-listeners>
-        <event-listener>
-            <resolver>reflection</resolver>
-            <identifier>com.malware.listener.ProcessTraceEventListener</identifier>
-            <parameters/>
-        </event-listener>
-    </event-listeners>
+    <event-listeners/>
     <task-event-listeners/>
     <globals/>
     <work-item-handlers>
