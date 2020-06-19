@@ -1,1 +1,4 @@
+com.malware.listener
+com.malware.model
+com.malware.client.jms
 com.malware.**
