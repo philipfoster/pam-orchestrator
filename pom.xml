@@ -45,6 +45,12 @@
       <version>7.30.0.Final-redhat-00003</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com.malware</groupId>
+      <artifactId>pam-process-tracer</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>provided</scope>
+    </dependency>
   </dependencies>
   <build>
     <plugins>
