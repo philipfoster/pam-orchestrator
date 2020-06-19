@@ -49,7 +49,7 @@
       <groupId>com.malware</groupId>
       <artifactId>pam-process-tracer</artifactId>
       <version>0.0.1-SNAPSHOT</version>
-    </dependency>   
+    </dependency>
   </dependencies>
   <build>
     <plugins>
