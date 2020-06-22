@@ -9,7 +9,7 @@
     <event-listeners>
         <event-listener>
             <resolver>reflection</resolver>
-            <identifier>com.malware.listener.ProcessTraceEventListener</identifier>
+            <identifier>com.malware.tracelisteners.ProcessTraceEventListener</identifier>
             <parameters/>
         </event-listener>
     </event-listeners>
