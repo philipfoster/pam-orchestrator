@@ -41,8 +41,8 @@
     </dependency>
     <dependency>
       <groupId>com.malware</groupId>
-      <artifactId>pam-process-tracer</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
+      <artifactId>trace-event-listeners</artifactId>
+      <version>1.0-SNAPSHOT</version>
     </dependency>
   </dependencies>
   <build>
