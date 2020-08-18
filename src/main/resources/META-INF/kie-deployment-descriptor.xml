@@ -8,8 +8,8 @@
     <marshalling-strategies/>
     <event-listeners>
         <event-listener>
-            <resolver>reflection</resolver>
-            <identifier>com.malware.tracelisteners.ProcessTraceEventListener</identifier>
+            <resolver>spring</resolver>
+            <identifier>ProcessTraceEventListener</identifier>
             <parameters/>
         </event-listener>
     </event-listeners>
